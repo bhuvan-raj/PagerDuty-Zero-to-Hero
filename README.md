@@ -16,16 +16,13 @@
 
 <br/>
 
-![Stars](https://img.shields.io/github/stars/your-username/your-repo?style=social)
-![Forks](https://img.shields.io/github/forks/your-username/your-repo?style=social)
-![Last Commit](https://img.shields.io/github/last-commit/your-username/your-repo?color=06AC38)
-![Issues](https://img.shields.io/github/issues/your-username/your-repo?color=orange)
-![Contributors](https://img.shields.io/github/contributors/your-username/your-repo?color=blueviolet)
+![Stars](https://img.shields.io/github/stars/bhuvan-raj/PagerDuty-Zero-to-Hero?style=social)
+![Forks](https://img.shields.io/github/forks/bhuvan-raj/PagerDuty-Zero-to-Hero?style=social)
+![Last Commit](https://img.shields.io/github/last-commit/bhuvan-raj/PagerDuty-Zero-to-Hero?color=06AC38)
+![Issues](https://img.shields.io/github/issues/bhuvan-raj/PagerDuty-Zero-to-Hero?color=orange)
+![Contributors](https://img.shields.io/github/contributors/bhuvan-raj/PagerDuty-Zero-to-Hero?color=blueviolet)
 
 </div>
-
-> ⚠️ **Note:** replace `your-username/your-repo` in the badge URLs above with your actual GitHub path once this repo is pushed.
-
 ---
 
 ## 📖 About
