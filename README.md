@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/bhuvan-raj/Kubernetes-EKS-FROM-SCRATCH/blob/main/assets/kyverno.png"  alt="Pagerduty" />
+<img src="https://github.com/bhuvan-raj/Kubernetes-EKS-FROM-SCRATCH/blob/main/assets/pd.png"  alt="Pagerduty" />
 
 # 🚨 PagerDuty — Zero to Hero
 
