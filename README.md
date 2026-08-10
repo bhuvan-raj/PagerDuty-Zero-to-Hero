@@ -1,10 +1,10 @@
 <div align="center">
 
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:06AC38,100:1a1a2e&height=220&section=header&text=PagerDuty%20—%20Zero%20to%20Hero&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Incident%20Management%20%7C%20On-Call%20%7C%20Grafana%20Alerting&descAlignY=58&descSize=18)
-
 <img src="https://www.pagerduty.com/wp-content/uploads/2023/06/pagerduty-logo.png" width="220" alt="PagerDuty" />
 
-### 🚨 A practical, real-world learning path for Incident Management with PagerDuty + Grafana Alerting
+# 🚨 PagerDuty — Zero to Hero
+
+### A practical, real-world learning path for Incident Management with PagerDuty + Grafana Alerting
 
 <br/>
 
@@ -12,17 +12,10 @@
 [![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)](https://grafana.com/)
 [![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)](https://prometheus.io/)
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
-[![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](#)
-
-<br/>
-
-![Stars](https://img.shields.io/github/stars/bhuvan-raj/PagerDuty-Zero-to-Hero?style=social)
-![Forks](https://img.shields.io/github/forks/bhuvan-raj/PagerDuty-Zero-to-Hero?style=social)
-![Last Commit](https://img.shields.io/github/last-commit/bhuvan-raj/PagerDuty-Zero-to-Hero?color=06AC38)
-![Issues](https://img.shields.io/github/issues/bhuvan-raj/PagerDuty-Zero-to-Hero?color=orange)
-![Contributors](https://img.shields.io/github/contributors/bhuvan-raj/PagerDuty-Zero-to-Hero?color=blueviolet)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](#)
 
 </div>
+
 ---
 
 ## 📖 About
@@ -146,10 +139,10 @@ Contributions, corrections, and suggestions are welcome — feel free to open an
 
 <div align="center">
 
+---
+
 **⭐ If this repository helped you, consider giving it a star!**
 
-[⬆ Back to top](#pagerduty--zero-to-hero-)
-
-![Footer Banner](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:06AC38&height=120&section=footer)
+[⬆ Back to top](#-pagerduty--zero-to-hero)
 
 </div>
