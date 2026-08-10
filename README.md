@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://www.pagerduty.com/wp-content/uploads/2023/06/pagerduty-logo.png" width="220" alt="PagerDuty" />
+<img src="https://github.com/bhuvan-raj/Kubernetes-EKS-FROM-SCRATCH/blob/main/assets/kyverno.png"  alt="Pagerduty" />
 
 # 🚨 PagerDuty — Zero to Hero
 
